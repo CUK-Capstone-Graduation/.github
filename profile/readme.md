@@ -6,6 +6,7 @@
   <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/46455370?v=4" width="100px;" alt=""/><br /><sub><b>김영덕</b></sub><br /></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/70528332?v=4" width="100px;" alt=""/><br /><sub><b>박연수</b></sub><br /></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/68063103?v=4" width="100px;" alt=""/><br /><sub><b>조지희</b></sub><br /></td>
     </tr>
 </table>
 
